@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.org/txpo-ontology/TXPO.svg?branch=master)](https://travis-ci.org/txpo-ontology/TXPO)
-[![DOI](https://zenodo.org/badge/13996/txpo-ontology/TXPO.svg)](https://zenodo.org/badge/latestdoi/13996/txpo-ontology/TXPO)
-
-Toxic Process Ontology (TXPO)
+# Toxic Process Ontology (TXPO)
 
 Toxic process ontology (TXPO) systematizes terms involving toxicity courses and processes.
 TXPO classifies 'Process' into  'Primitive process' and 'Process sequence'.  'Process sequence' includes toxic courses and 'primitive process' includes toxic course dependent processes.
