@@ -8,7 +8,7 @@ TXPO focuses on functioning processes in the liver to protect organisms from tox
 Entities in the top layer refer to the upper ontology, Basic Formal Ontology (BFO) . In the biomedical dependent entities, TXPO imports existing terms and reuses them from biomedical ontologies: UBERON, PATO, Cell Ontology, NCBI Taxon, ChEBI, Gene Ontology, OGG, INOH, HINO, NCIT, DOID and Relational ontology (RO).
 
 In applied work, we have developed a prototype of TOXPILOT, a toxic process interpretable knowledge system. TOXPILOT provides visualization maps of the toxic course, which facilitates capturing the comprehensive picture for understanding toxicity mechanisms.
-A prototype of TOXPIlOT  http://toxpilot.nibiohn.go.jp
+A prototype of TOXPIlOT  https://toxpilot.nibiohn.go.jp
 
 
 More information can be found at http://bioportal.bioontology.org/ontologies/TXPO
