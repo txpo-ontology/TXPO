@@ -10,7 +10,7 @@ TOXPILOT provides visualization maps of the toxic course, which facilitates capt
 
 A prototype of TOXPILOT is available:  https://toxpilot.nibiohn.go.jp
 
-BioPrtal: http://bioportal.bioontology.org/ontologies/TXPO
+BioPortal: http://bioportal.bioontology.org/ontologies/TXPO
 
 ## Contact
 
