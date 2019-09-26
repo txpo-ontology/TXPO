@@ -9,6 +9,7 @@ In applied work, we have developed a prototype of TOXPILOT, a TOXic Process Inte
 TOXPILOT provides visualization maps of the toxic course, which facilitates capturing the comprehensive picture for understanding toxicity mechanisms. 
 
 A prototype of TOXPILOT is available:  https://toxpilot.nibiohn.go.jp
+
 BioPrtal: http://bioportal.bioontology.org/ontologies/TXPO
 
 ## Contact
